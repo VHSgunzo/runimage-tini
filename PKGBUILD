@@ -14,5 +14,5 @@ source=("$url/releases/download/v$pkgver/tini-${CARCH}")
 sha256sums=('SKIP')
 
 package() {
-  install -Dm755 "tini-${CARCH}" "${pkgdir}/var/RunDir/static/tini"
+  install -Dm755 "tini-${CARCH}" "${pkgdir}/var/RunDir/sharun/bin/tini"
 }
