@@ -1,2 +1,2 @@
 # runimage-tini
-tini for RunImage container
+[tini](https://github.com/VHSgunzo/tini-static) for [RunImage](https://github.com/VHSgunzo/runimage) container.
