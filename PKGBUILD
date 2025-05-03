@@ -1,10 +1,10 @@
 # Maintainer: VHSgunzo <vhsgunzo.github.io>
 
 pkgname='runimage-tini'
-pkgver='0.19.0'
+pkgver='0.20.0'
 pkgrel='1'
 pkgdesc='tini for RunImage container'
-url='https://github.com/VHSgunzo/tini-static'
+url='https://github.com/VHSgunzo/tini'
 arch=('x86_64' 'aarch64')
 license=('MIT')
 options=(!strip)
